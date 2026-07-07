@@ -1,0 +1,6 @@
+distlib==0.4.3
+filelock==3.29.6
+platformdirs==4.10.0
+PyQRCode==1.2.1
+python-discovery==1.4.3
+typing_extensions==4.16.0
